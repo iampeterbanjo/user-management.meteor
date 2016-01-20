@@ -1,6 +1,8 @@
-# Chapter 6. Users, authentications, and permissions
+# Meteor in Action
 
-## This chapter covers
+## Chapter 6. Users, authentications, and permissions
+
+### This chapter covers
 
 - Enabling user registration via username/password
 - Connecting to an SMTP server to send emails
